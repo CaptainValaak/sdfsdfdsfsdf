@@ -1,0 +1,4085 @@
+<CEntityDef>
+    <CMapData creator="GetDeepDown"/>
+    <WorldSettings>
+        <time freeze="false">
+            <hour value="23"/>
+            <minute value="0"/>
+            <second value="6"/>
+        </time>
+        <Weather value="-1" snow="0"/>
+        <globals DisablePeds="false" Guarmahorizon="false" NoTrains="false"/>
+        <groups Player_And_Group_1_Relation="0" Player_And_Group_2_Relation="0" Player_And_Group_3_Relation="0" Player_And_Group_4_Relation="0" Player_And_Group_5_Relation="0" Player_And_Group_6_Relation="0" Group_1_And_2_Relation="0" Group_1_And_3_Relation="0" Group_1_And_4_Relation="0" Group_1_And_5_Relation="0" Group_1_And_6_Relation="0" Group_2_And_3_Relation="0" Group_2_And_4_Relation="0" Group_2_And_5_Relation="0" Group_2_And_6_Relation="0" Group_3_And_4_Relation="0" Group_3_And_5_Relation="0" Group_3_And_6_Relation="0" Group_4_And_5_Relation="0" Group_4_And_6_Relation="0" Group_5_And_6_Relation="0"/>
+    </WorldSettings>
+    <Entity>
+        <EntityType>Ped</EntityType>
+        <position X="-277.4628" Y="119.0378" Z="60.7015"/>
+        <rotation X="0" Y="0" Z="-55.000599"/>
+        <tag/>
+        <blip value="0"/>
+        <flags group="0" handcuffed="false" anklecuffed="false" scale="1" money="0" accuracy="0" task="1"/>
+        <walkstyle>default</walkstyle>
+        <waist value="0"/>
+        <bodytype value="0"/>
+        <weapon value="0"/>
+        <quality value="-1"/>
+        <scenario></scenario>
+        <clothing>
+            <preset value="-1"/>
+            <hat value="-1"/>
+            <mask value="-1"/>
+            <chaps value="-1"/>
+            <pants value="-1"/>
+            <boots value="-1"/>
+            <badge value="-1"/>
+            <gloves value="-1"/>
+            <coat value="-1"/>
+            <shirt value="-1"/>
+            <shaps value="-1"/>
+            <hair value="-1"/>
+            <vest value="-1"/>
+            <poncho value="-1"/>
+            <torso value="-1"/>
+            <head value="-1"/>
+            <necktie value="-1"/>
+            <neckwear value="-1"/>
+            <holster value="-1"/>
+            <mustache value="-1"/>
+            <suspenders value="-1"/>
+            <eyewear value="-1"/>
+            <belt value="-1"/>
+            <beltbuckle value="-1"/>
+        </clothing>
+        <FaceFeatures>
+            <head_width value="0"/>
+            <eyebrow_height value="0"/>
+            <eyebrow_width value="0"/>
+            <eyebrow_depth value="0"/>
+            <ears_width value="0"/>
+            <ears_angle value="0"/>
+            <ears_height value="0"/>
+            <earlobe_size value="0"/>
+            <cheekbones_height value="-0.60000002"/>
+            <cheekbones_width value="-1"/>
+            <cheekbones_depth value="0"/>
+            <jaw_height value="0"/>
+            <jaw_width value="0.80000001"/>
+            <jaw_depth value="0"/>
+            <chin_height value="0.40000001"/>
+            <chin_width value="1"/>
+            <chin_depth value="0"/>
+            <eyelid_height value="0"/>
+            <eyelid_width value="0"/>
+            <eyes_depth value="0"/>
+            <eyes_angle value="0"/>
+            <eyes_distance value="0.1"/>
+            <eyes_height value="-0.1"/>
+            <nose_width value="0.60000002"/>
+            <nose_size value="-0.60000002"/>
+            <nose_height value="0"/>
+            <nose_angle value="-0.60000002"/>
+            <nose_curvature value="0"/>
+            <nostrils_distance value="-1"/>
+            <mouth_width value="0"/>
+            <mouth_depth value="0"/>
+            <mouth_x_pos value="0"/>
+            <mouth_y_pos value="0"/>
+            <upper_lip_height value="0"/>
+            <upper_lip_width value="0"/>
+            <upper_lip_depth value="0"/>
+            <lower_lip_height value="0"/>
+            <lower_lip_width value="0"/>
+            <lower_lip_depth value="0"/>
+            <horse_gender value="0"/>
+        </FaceFeatures>
+        <archetypeName value="-1707932915"/>
+    </Entity>
+    <Entity>
+        <EntityType>Ped</EntityType>
+        <position X="-277.15479" Y="121.1543" Z="60.742901"/>
+        <rotation X="0" Y="0" Z="-121.0002"/>
+        <tag/>
+        <blip value="0"/>
+        <flags group="0" handcuffed="false" anklecuffed="false" scale="1" money="0" accuracy="0" task="3"/>
+        <walkstyle>default</walkstyle>
+        <waist value="0"/>
+        <bodytype value="0"/>
+        <weapon value="379542007"/>
+        <quality value="-1"/>
+        <scenario></scenario>
+        <clothing>
+            <preset value="-1"/>
+            <hat value="-1"/>
+            <mask value="-1"/>
+            <chaps value="-1"/>
+            <pants value="-1"/>
+            <boots value="-1"/>
+            <badge value="-1"/>
+            <gloves value="-1"/>
+            <coat value="-1"/>
+            <shirt value="-1"/>
+            <shaps value="-1"/>
+            <hair value="-1"/>
+            <vest value="-1"/>
+            <poncho value="-1"/>
+            <torso value="-1"/>
+            <head value="-1"/>
+            <necktie value="-1"/>
+            <neckwear value="-1"/>
+            <holster value="-1"/>
+            <mustache value="-1"/>
+            <suspenders value="-1"/>
+            <eyewear value="-1"/>
+            <belt value="-1"/>
+            <beltbuckle value="-1"/>
+        </clothing>
+        <FaceFeatures>
+            <head_width value="-0.89999998"/>
+            <eyebrow_height value="0.2"/>
+            <eyebrow_width value="0.5"/>
+            <eyebrow_depth value="0"/>
+            <ears_width value="0"/>
+            <ears_angle value="0"/>
+            <ears_height value="0"/>
+            <earlobe_size value="0"/>
+            <cheekbones_height value="0"/>
+            <cheekbones_width value="0"/>
+            <cheekbones_depth value="0"/>
+            <jaw_height value="0"/>
+            <jaw_width value="0"/>
+            <jaw_depth value="0"/>
+            <chin_height value="0"/>
+            <chin_width value="0"/>
+            <chin_depth value="0"/>
+            <eyelid_height value="-0.69999999"/>
+            <eyelid_width value="-0.40000001"/>
+            <eyes_depth value="-1"/>
+            <eyes_angle value="0.1"/>
+            <eyes_distance value="0"/>
+            <eyes_height value="0.40000001"/>
+            <nose_width value="-0.60000002"/>
+            <nose_size value="0"/>
+            <nose_height value="0.1"/>
+            <nose_angle value="0.5"/>
+            <nose_curvature value="-0.60000002"/>
+            <nostrils_distance value="0.40000001"/>
+            <mouth_width value="0.69999999"/>
+            <mouth_depth value="0"/>
+            <mouth_x_pos value="-0.30000001"/>
+            <mouth_y_pos value="0"/>
+            <upper_lip_height value="0"/>
+            <upper_lip_width value="0"/>
+            <upper_lip_depth value="0"/>
+            <lower_lip_height value="0"/>
+            <lower_lip_width value="0"/>
+            <lower_lip_depth value="0"/>
+            <horse_gender value="0"/>
+        </FaceFeatures>
+        <archetypeName value="1169277545"/>
+    </Entity>
+    <Entity>
+        <EntityType>Ped</EntityType>
+        <position X="-215.2561" Y="662.49548" Z="115.8688"/>
+        <rotation X="-0" Y="0" Z="-127.983"/>
+        <tag/>
+        <blip value="0"/>
+        <flags group="0" handcuffed="false" anklecuffed="false" scale="1" money="0" accuracy="0" task="0"/>
+        <walkstyle>default</walkstyle>
+        <waist value="0"/>
+        <bodytype value="0"/>
+        <weapon value="-183018591"/>
+        <quality value="-1"/>
+        <scenario></scenario>
+        <clothing>
+            <preset value="-1"/>
+            <hat value="-1"/>
+            <mask value="-1"/>
+            <chaps value="-1"/>
+            <pants value="-1"/>
+            <boots value="-1"/>
+            <badge value="-1"/>
+            <gloves value="-1"/>
+            <coat value="-1"/>
+            <shirt value="-1"/>
+            <shaps value="-1"/>
+            <hair value="-1"/>
+            <vest value="-1"/>
+            <poncho value="-1"/>
+            <torso value="-1"/>
+            <head value="-1"/>
+            <necktie value="-1"/>
+            <neckwear value="-1"/>
+            <holster value="-1"/>
+            <mustache value="-1"/>
+            <suspenders value="-1"/>
+            <eyewear value="-1"/>
+            <belt value="-1"/>
+            <beltbuckle value="-1"/>
+        </clothing>
+        <FaceFeatures>
+            <head_width value="-0.2"/>
+            <eyebrow_height value="0.1"/>
+            <eyebrow_width value="0.40000001"/>
+            <eyebrow_depth value="-0.30000001"/>
+            <ears_width value="0.30000001"/>
+            <ears_angle value="0.80000001"/>
+            <ears_height value="0.2"/>
+            <earlobe_size value="0"/>
+            <cheekbones_height value="0.30000001"/>
+            <cheekbones_width value="-0.40000001"/>
+            <cheekbones_depth value="0.80000001"/>
+            <jaw_height value="-0.60000002"/>
+            <jaw_width value="-0.69999999"/>
+            <jaw_depth value="-0.5"/>
+            <chin_height value="0.1"/>
+            <chin_width value="0.1"/>
+            <chin_depth value="0.60000002"/>
+            <eyelid_height value="0.30000001"/>
+            <eyelid_width value="0.30000001"/>
+            <eyes_depth value="0.1"/>
+            <eyes_angle value="0.050999999"/>
+            <eyes_distance value="-0.30000001"/>
+            <eyes_height value="0.2"/>
+            <nose_width value="0.1"/>
+            <nose_size value="-0.30000001"/>
+            <nose_height value="0.69999999"/>
+            <nose_angle value="-0.40000001"/>
+            <nose_curvature value="0"/>
+            <nostrils_distance value="0.1"/>
+            <mouth_width value="0.40000001"/>
+            <mouth_depth value="0.30000001"/>
+            <mouth_x_pos value="0"/>
+            <mouth_y_pos value="0.5"/>
+            <upper_lip_height value="-0.2"/>
+            <upper_lip_width value="0.80000001"/>
+            <upper_lip_depth value="0.40000001"/>
+            <lower_lip_height value="0.40000001"/>
+            <lower_lip_width value="-0.30000001"/>
+            <lower_lip_depth value="0.2"/>
+            <horse_gender value="0"/>
+        </FaceFeatures>
+        <archetypeName value="1449129819"/>
+    </Entity>
+    <Entity>
+        <EntityType>Ped</EntityType>
+        <position X="-212.4435" Y="666.1781" Z="115.8559"/>
+        <rotation X="0" Y="0" Z="-118.0002"/>
+        <tag/>
+        <blip value="0"/>
+        <flags group="0" handcuffed="false" anklecuffed="false" scale="1" money="0" accuracy="3" task="0"/>
+        <walkstyle>default</walkstyle>
+        <waist value="0"/>
+        <bodytype value="1"/>
+        <weapon value="379542007"/>
+        <quality value="-1"/>
+        <scenario></scenario>
+        <clothing>
+            <preset value="-1"/>
+            <hat value="-1"/>
+            <mask value="-1"/>
+            <chaps value="-1"/>
+            <pants value="-1"/>
+            <boots value="-1"/>
+            <badge value="-1"/>
+            <gloves value="-1"/>
+            <coat value="-1"/>
+            <shirt value="-1"/>
+            <shaps value="-1"/>
+            <hair value="-1"/>
+            <vest value="-1"/>
+            <poncho value="-1"/>
+            <torso value="-1"/>
+            <head value="-1"/>
+            <necktie value="-1"/>
+            <neckwear value="-1"/>
+            <holster value="-1"/>
+            <mustache value="-1"/>
+            <suspenders value="-1"/>
+            <eyewear value="-1"/>
+            <belt value="-1"/>
+            <beltbuckle value="-1"/>
+        </clothing>
+        <FaceFeatures>
+            <head_width value="0"/>
+            <eyebrow_height value="-0.69999999"/>
+            <eyebrow_width value="0.40000001"/>
+            <eyebrow_depth value="0"/>
+            <ears_width value="0"/>
+            <ears_angle value="0"/>
+            <ears_height value="0"/>
+            <earlobe_size value="0"/>
+            <cheekbones_height value="0"/>
+            <cheekbones_width value="0.40000001"/>
+            <cheekbones_depth value="0"/>
+            <jaw_height value="0"/>
+            <jaw_width value="0"/>
+            <jaw_depth value="0"/>
+            <chin_height value="0"/>
+            <chin_width value="0.69999999"/>
+            <chin_depth value="0"/>
+            <eyelid_height value="0"/>
+            <eyelid_width value="0"/>
+            <eyes_depth value="0"/>
+            <eyes_angle value="0"/>
+            <eyes_distance value="0"/>
+            <eyes_height value="0"/>
+            <nose_width value="-0.5"/>
+            <nose_size value="0"/>
+            <nose_height value="0"/>
+            <nose_angle value="0"/>
+            <nose_curvature value="0"/>
+            <nostrils_distance value="0"/>
+            <mouth_width value="0"/>
+            <mouth_depth value="0"/>
+            <mouth_x_pos value="0"/>
+            <mouth_y_pos value="0"/>
+            <upper_lip_height value="0"/>
+            <upper_lip_width value="0"/>
+            <upper_lip_depth value="0"/>
+            <lower_lip_height value="-0.60000002"/>
+            <lower_lip_width value="0"/>
+            <lower_lip_depth value="0"/>
+            <horse_gender value="0"/>
+        </FaceFeatures>
+        <archetypeName value="-1909449322"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-208.21561" Y="627.80359" Z="112.0903"/>
+        <rotation X="0" Y="0" Z="-96.000504"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="55"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="151743412"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-208.4734" Y="626.94269" Z="112.0979"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-207.1245" Y="628.29901" Z="113.524"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-206.46989" Y="628.32971" Z="112.1478"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-208.24409" Y="629.35571" Z="112.1278"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-205.9984" Y="629.29303" Z="111.8763"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-205.58141" Y="626.45947" Z="111.9327"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-204.0368" Y="625.81451" Z="111.8892"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-207.0056" Y="625.84302" Z="111.9861"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-205.4315" Y="625.95813" Z="111.9297"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-206.13969" Y="627.06567" Z="111.9175"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-206.5686" Y="626.38391" Z="112.0113"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-208.18629" Y="626.27338" Z="112.1052"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-207.24741" Y="630.77417" Z="112.0104"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="100"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1652131169"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-226.11501" Y="644.08948" Z="112.2304"/>
+        <rotation X="0" Y="0" Z="-19.000799"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="100"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1224690941"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-224.741" Y="642.11731" Z="112.1839"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="130"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-994042190"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-227.7399" Y="641.89722" Z="112.2355"/>
+        <rotation X="0" Y="0" Z="-63.000301"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-975984487"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-204.69521" Y="626.22223" Z="111.9023"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="100"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="371901142"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-210.77609" Y="626.27448" Z="112.2496"/>
+        <rotation X="0" Y="0" Z="-84.001503"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="100"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1806112510"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-211.5359" Y="626.26172" Z="112.2824"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-210.2525" Y="627.84167" Z="112.232"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-208.83121" Y="630.09613" Z="112.123"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-207.2644" Y="631.54022" Z="113.3455"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-103.8416" Y="417.66809" Z="113.0108"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="300"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-1316336519"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-100.8813" Y="414.61569" Z="113.0588"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="160"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1946434792"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-100.0831" Y="412.36301" Z="113.0565"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="75"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1540392720"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-91.781601" Y="420.09521" Z="112.5636"/>
+        <rotation X="0" Y="0" Z="-27.000099"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="240"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-1897472733"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-97.659897" Y="409.2565" Z="113.0512"/>
+        <rotation X="0" Y="0" Z="116.9978"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-396171861"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-114.0145" Y="416.01321" Z="111.2353"/>
+        <rotation X="0" Y="0" Z="-149.00031"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="100"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1371947023"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-103.381" Y="411.17761" Z="112.9332"/>
+        <rotation X="0" Y="0" Z="16.9988"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="300"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-1270572788"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="10.8082" Y="444.79181" Z="149.6714"/>
+        <rotation X="0" Y="0" Z="-116.0008"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="100"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-1871983681"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="8.1543999" Y="447.07211" Z="149.7354"/>
+        <rotation X="0" Y="0" Z="-122.0007"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="90"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1897706816"/>
+    </Entity>
+    <Entity>
+        <EntityType>Ped</EntityType>
+        <position X="11.494" Y="444.71689" Z="150.9608"/>
+        <rotation X="0" Y="0" Z="-22.007299"/>
+        <tag/>
+        <blip value="0"/>
+        <flags group="0" handcuffed="false" anklecuffed="false" scale="1" money="0" accuracy="0" task="5"/>
+        <walkstyle>default</walkstyle>
+        <waist value="0"/>
+        <bodytype value="0"/>
+        <weapon value="379542007"/>
+        <quality value="-1"/>
+        <scenario></scenario>
+        <clothing>
+            <preset value="-1"/>
+            <hat value="-1"/>
+            <mask value="-1"/>
+            <chaps value="-1"/>
+            <pants value="-1"/>
+            <boots value="-1"/>
+            <badge value="-1"/>
+            <gloves value="-1"/>
+            <coat value="-1"/>
+            <shirt value="-1"/>
+            <shaps value="-1"/>
+            <hair value="-1"/>
+            <vest value="-1"/>
+            <poncho value="-1"/>
+            <torso value="-1"/>
+            <head value="-1"/>
+            <necktie value="-1"/>
+            <neckwear value="-1"/>
+            <holster value="-1"/>
+            <mustache value="-1"/>
+            <suspenders value="-1"/>
+            <eyewear value="-1"/>
+            <belt value="-1"/>
+            <beltbuckle value="-1"/>
+        </clothing>
+        <FaceFeatures>
+            <head_width value="-0.273"/>
+            <eyebrow_height value="-0.273"/>
+            <eyebrow_width value="-0.273"/>
+            <eyebrow_depth value="-0.273"/>
+            <ears_width value="-0.273"/>
+            <ears_angle value="-0.273"/>
+            <ears_height value="-0.273"/>
+            <earlobe_size value="-0.273"/>
+            <cheekbones_height value="-0.273"/>
+            <cheekbones_width value="-0.273"/>
+            <cheekbones_depth value="-0.273"/>
+            <jaw_height value="-0.273"/>
+            <jaw_width value="-0.273"/>
+            <jaw_depth value="-0.273"/>
+            <chin_height value="-0.273"/>
+            <chin_width value="-0.273"/>
+            <chin_depth value="-0.273"/>
+            <eyelid_height value="-0.273"/>
+            <eyelid_width value="-0.273"/>
+            <eyes_depth value="-0.273"/>
+            <eyes_angle value="-0.273"/>
+            <eyes_distance value="-0.273"/>
+            <eyes_height value="-0.273"/>
+            <nose_width value="-0.273"/>
+            <nose_size value="-0.273"/>
+            <nose_height value="-0.273"/>
+            <nose_angle value="-0.273"/>
+            <nose_curvature value="-0.273"/>
+            <nostrils_distance value="-0.273"/>
+            <mouth_width value="-0.273"/>
+            <mouth_depth value="-0.273"/>
+            <mouth_x_pos value="-0.273"/>
+            <mouth_y_pos value="-0.273"/>
+            <upper_lip_height value="-0.273"/>
+            <upper_lip_width value="-0.273"/>
+            <upper_lip_depth value="-0.273"/>
+            <lower_lip_height value="-0.273"/>
+            <lower_lip_width value="-0.273"/>
+            <lower_lip_depth value="-0.273"/>
+            <horse_gender value="0"/>
+        </FaceFeatures>
+        <archetypeName value="1812458547"/>
+    </Entity>
+    <Entity>
+        <EntityType>Ped</EntityType>
+        <position X="8.1274996" Y="447.0853" Z="150.0623"/>
+        <rotation X="0" Y="0" Z="-104.0002"/>
+        <tag/>
+        <blip value="0"/>
+        <flags group="0" handcuffed="false" anklecuffed="false" scale="1" money="0" accuracy="0" task="5"/>
+        <walkstyle>default</walkstyle>
+        <waist value="0"/>
+        <bodytype value="0"/>
+        <weapon value="1676963302"/>
+        <quality value="-1"/>
+        <scenario></scenario>
+        <clothing>
+            <preset value="-1"/>
+            <hat value="-1"/>
+            <mask value="-1"/>
+            <chaps value="-1"/>
+            <pants value="-1"/>
+            <boots value="-1"/>
+            <badge value="-1"/>
+            <gloves value="-1"/>
+            <coat value="-1"/>
+            <shirt value="-1"/>
+            <shaps value="-1"/>
+            <hair value="-1"/>
+            <vest value="-1"/>
+            <poncho value="-1"/>
+            <torso value="-1"/>
+            <head value="-1"/>
+            <necktie value="-1"/>
+            <neckwear value="-1"/>
+            <holster value="-1"/>
+            <mustache value="-1"/>
+            <suspenders value="-1"/>
+            <eyewear value="-1"/>
+            <belt value="-1"/>
+            <beltbuckle value="-1"/>
+        </clothing>
+        <FaceFeatures>
+            <head_width value="-0.51199901"/>
+            <eyebrow_height value="0"/>
+            <eyebrow_width value="0"/>
+            <eyebrow_depth value="0"/>
+            <ears_width value="0"/>
+            <ears_angle value="0"/>
+            <ears_height value="0"/>
+            <earlobe_size value="0"/>
+            <cheekbones_height value="0"/>
+            <cheekbones_width value="0.30000001"/>
+            <cheekbones_depth value="0"/>
+            <jaw_height value="0"/>
+            <jaw_width value="0"/>
+            <jaw_depth value="0"/>
+            <chin_height value="0"/>
+            <chin_width value="0"/>
+            <chin_depth value="0"/>
+            <eyelid_height value="0"/>
+            <eyelid_width value="0"/>
+            <eyes_depth value="0"/>
+            <eyes_angle value="0"/>
+            <eyes_distance value="0"/>
+            <eyes_height value="0"/>
+            <nose_width value="0"/>
+            <nose_size value="0"/>
+            <nose_height value="0"/>
+            <nose_angle value="0"/>
+            <nose_curvature value="0"/>
+            <nostrils_distance value="0"/>
+            <mouth_width value="0"/>
+            <mouth_depth value="0"/>
+            <mouth_x_pos value="0"/>
+            <mouth_y_pos value="0"/>
+            <upper_lip_height value="0"/>
+            <upper_lip_width value="0"/>
+            <upper_lip_depth value="0"/>
+            <lower_lip_height value="0"/>
+            <lower_lip_width value="0"/>
+            <lower_lip_depth value="0"/>
+            <horse_gender value="0"/>
+        </FaceFeatures>
+        <archetypeName value="1092921608"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="7.6725001" Y="447.09189" Z="150.1073"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="10"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-2080070898"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="10.3833" Y="442.84479" Z="149.63651"/>
+        <rotation X="0" Y="0" Z="16.3353"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="41"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-820040688"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="7.8881998" Y="446.8363" Z="150.0705"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="43"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-1370447667"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="10.0103" Y="445.28201" Z="151.7101"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="120"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1935100224"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="10.7274" Y="443.9249" Z="149.6485"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="10.5522" Y="446.79749" Z="149.7813"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-102.9284" Y="409.85349" Z="115.195"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-102.1614" Y="412.47311" Z="113.0644"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Ped</EntityType>
+        <position X="-97.801903" Y="409.22409" Z="114.1694"/>
+        <rotation X="0" Y="0" Z="31.9877"/>
+        <tag/>
+        <blip value="0"/>
+        <flags group="0" handcuffed="false" anklecuffed="false" scale="1" money="0" accuracy="0" task="5"/>
+        <walkstyle>default</walkstyle>
+        <waist value="0"/>
+        <bodytype value="0"/>
+        <weapon value="34411519"/>
+        <quality value="-1"/>
+        <scenario></scenario>
+        <clothing>
+            <preset value="-1"/>
+            <hat value="-1"/>
+            <mask value="-1"/>
+            <chaps value="-1"/>
+            <pants value="-1"/>
+            <boots value="-1"/>
+            <badge value="-1"/>
+            <gloves value="-1"/>
+            <coat value="-1"/>
+            <shirt value="-1"/>
+            <shaps value="-1"/>
+            <hair value="-1"/>
+            <vest value="-1"/>
+            <poncho value="-1"/>
+            <torso value="-1"/>
+            <head value="-1"/>
+            <necktie value="-1"/>
+            <neckwear value="-1"/>
+            <holster value="-1"/>
+            <mustache value="-1"/>
+            <suspenders value="-1"/>
+            <eyewear value="-1"/>
+            <belt value="-1"/>
+            <beltbuckle value="-1"/>
+        </clothing>
+        <FaceFeatures>
+            <head_width value="0.40000001"/>
+            <eyebrow_height value="0.1"/>
+            <eyebrow_width value="0.2"/>
+            <eyebrow_depth value="-1"/>
+            <ears_width value="0"/>
+            <ears_angle value="0.30000001"/>
+            <ears_height value="0"/>
+            <earlobe_size value="0"/>
+            <cheekbones_height value="-0.30000001"/>
+            <cheekbones_width value="-0.1"/>
+            <cheekbones_depth value="0.80000001"/>
+            <jaw_height value="0"/>
+            <jaw_width value="0.30000001"/>
+            <jaw_depth value="0"/>
+            <chin_height value="0.1"/>
+            <chin_width value="-0.30000001"/>
+            <chin_depth value="0.69999999"/>
+            <eyelid_height value="0"/>
+            <eyelid_width value="0.30000001"/>
+            <eyes_depth value="-0.40000001"/>
+            <eyes_angle value="0.60000002"/>
+            <eyes_distance value="0.1"/>
+            <eyes_height value="0.5"/>
+            <nose_width value="0.5"/>
+            <nose_size value="0.2"/>
+            <nose_height value="0.40000001"/>
+            <nose_angle value="0.60000002"/>
+            <nose_curvature value="0"/>
+            <nostrils_distance value="1"/>
+            <mouth_width value="0"/>
+            <mouth_depth value="0"/>
+            <mouth_x_pos value="0.5"/>
+            <mouth_y_pos value="0.40000001"/>
+            <upper_lip_height value="0.80000001"/>
+            <upper_lip_width value="-0.60000002"/>
+            <upper_lip_depth value="1"/>
+            <lower_lip_height value="-1"/>
+            <lower_lip_width value="1"/>
+            <lower_lip_depth value="0.30000001"/>
+            <horse_gender value="0"/>
+        </FaceFeatures>
+        <archetypeName value="-1680931998"/>
+    </Entity>
+    <Entity>
+        <EntityType>Ped</EntityType>
+        <position X="-101.9054" Y="417.36331" Z="113.0505"/>
+        <rotation X="-0" Y="0" Z="-92.167702"/>
+        <tag/>
+        <blip value="0"/>
+        <flags group="0" handcuffed="false" anklecuffed="false" scale="1" money="0" accuracy="0" task="5"/>
+        <walkstyle>default</walkstyle>
+        <waist value="0"/>
+        <bodytype value="0"/>
+        <weapon value="127400949"/>
+        <quality value="-1"/>
+        <scenario></scenario>
+        <clothing>
+            <preset value="-1"/>
+            <hat value="-1"/>
+            <mask value="-1"/>
+            <chaps value="-1"/>
+            <pants value="-1"/>
+            <boots value="-1"/>
+            <badge value="-1"/>
+            <gloves value="-1"/>
+            <coat value="-1"/>
+            <shirt value="-1"/>
+            <shaps value="-1"/>
+            <hair value="-1"/>
+            <vest value="-1"/>
+            <poncho value="-1"/>
+            <torso value="-1"/>
+            <head value="-1"/>
+            <necktie value="-1"/>
+            <neckwear value="-1"/>
+            <holster value="-1"/>
+            <mustache value="-1"/>
+            <suspenders value="-1"/>
+            <eyewear value="-1"/>
+            <belt value="-1"/>
+            <beltbuckle value="-1"/>
+        </clothing>
+        <FaceFeatures>
+            <head_width value="-0.1"/>
+            <eyebrow_height value="0"/>
+            <eyebrow_width value="0"/>
+            <eyebrow_depth value="0"/>
+            <ears_width value="0"/>
+            <ears_angle value="0"/>
+            <ears_height value="0"/>
+            <earlobe_size value="0"/>
+            <cheekbones_height value="0"/>
+            <cheekbones_width value="0"/>
+            <cheekbones_depth value="0"/>
+            <jaw_height value="0"/>
+            <jaw_width value="0"/>
+            <jaw_depth value="0"/>
+            <chin_height value="0"/>
+            <chin_width value="0"/>
+            <chin_depth value="0"/>
+            <eyelid_height value="0"/>
+            <eyelid_width value="-0.1"/>
+            <eyes_depth value="0"/>
+            <eyes_angle value="0.5"/>
+            <eyes_distance value="-0.2"/>
+            <eyes_height value="0"/>
+            <nose_width value="0"/>
+            <nose_size value="0"/>
+            <nose_height value="-0.69999999"/>
+            <nose_angle value="0"/>
+            <nose_curvature value="0"/>
+            <nostrils_distance value="0.69999999"/>
+            <mouth_width value="-0.1"/>
+            <mouth_depth value="-0.30000001"/>
+            <mouth_x_pos value="0"/>
+            <mouth_y_pos value="0.80000001"/>
+            <upper_lip_height value="-0.40000001"/>
+            <upper_lip_width value="0"/>
+            <upper_lip_depth value="0"/>
+            <lower_lip_height value="1"/>
+            <lower_lip_width value="0"/>
+            <lower_lip_depth value="0.80000001"/>
+            <horse_gender value="0"/>
+        </FaceFeatures>
+        <archetypeName value="-189525382"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-17.2763" Y="445.69351" Z="130.90759"/>
+        <rotation X="-2.5" Y="24.5" Z="-168.5014"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="55"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="5"/>
+        <archetypeName value="151743412"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="110.1533" Y="129.76691" Z="110.9081"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="100"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="226389619"/>
+    </Entity>
+    <Entity>
+        <EntityType>Ped</EntityType>
+        <position X="109.5313" Y="128.0686" Z="110.895"/>
+        <rotation X="0" Y="0" Z="138.9995"/>
+        <tag/>
+        <blip value="0"/>
+        <flags group="0" handcuffed="false" anklecuffed="false" scale="1" money="0" accuracy="0" task="5"/>
+        <walkstyle>default</walkstyle>
+        <waist value="0"/>
+        <bodytype value="0"/>
+        <weapon value="-506285289"/>
+        <quality value="-1"/>
+        <scenario></scenario>
+        <clothing>
+            <preset value="-1"/>
+            <hat value="-1"/>
+            <mask value="-1"/>
+            <chaps value="-1"/>
+            <pants value="-1"/>
+            <boots value="-1"/>
+            <badge value="-1"/>
+            <gloves value="-1"/>
+            <coat value="-1"/>
+            <shirt value="-1"/>
+            <shaps value="-1"/>
+            <hair value="-1"/>
+            <vest value="-1"/>
+            <poncho value="-1"/>
+            <torso value="-1"/>
+            <head value="-1"/>
+            <necktie value="-1"/>
+            <neckwear value="-1"/>
+            <holster value="-1"/>
+            <mustache value="-1"/>
+            <suspenders value="-1"/>
+            <eyewear value="-1"/>
+            <belt value="-1"/>
+            <beltbuckle value="-1"/>
+        </clothing>
+        <FaceFeatures>
+            <head_width value="0"/>
+            <eyebrow_height value="0"/>
+            <eyebrow_width value="0"/>
+            <eyebrow_depth value="0"/>
+            <ears_width value="0"/>
+            <ears_angle value="0"/>
+            <ears_height value="0"/>
+            <earlobe_size value="0"/>
+            <cheekbones_height value="0"/>
+            <cheekbones_width value="0"/>
+            <cheekbones_depth value="0"/>
+            <jaw_height value="0"/>
+            <jaw_width value="0"/>
+            <jaw_depth value="0"/>
+            <chin_height value="0"/>
+            <chin_width value="0"/>
+            <chin_depth value="0"/>
+            <eyelid_height value="0"/>
+            <eyelid_width value="0"/>
+            <eyes_depth value="0"/>
+            <eyes_angle value="0"/>
+            <eyes_distance value="0"/>
+            <eyes_height value="0"/>
+            <nose_width value="0"/>
+            <nose_size value="0"/>
+            <nose_height value="0"/>
+            <nose_angle value="0"/>
+            <nose_curvature value="0"/>
+            <nostrils_distance value="0"/>
+            <mouth_width value="0"/>
+            <mouth_depth value="0"/>
+            <mouth_x_pos value="0"/>
+            <mouth_y_pos value="0"/>
+            <upper_lip_height value="0"/>
+            <upper_lip_width value="0"/>
+            <upper_lip_depth value="0"/>
+            <lower_lip_height value="0"/>
+            <lower_lip_width value="0"/>
+            <lower_lip_depth value="0"/>
+            <horse_gender value="0"/>
+        </FaceFeatures>
+        <archetypeName value="122919097"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-222.8266" Y="647.76898" Z="112.356"/>
+        <rotation X="0" Y="0" Z="-33"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="130"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-387389405"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-219.868" Y="651.07092" Z="112.2936"/>
+        <rotation X="0" Y="0" Z="-47.000099"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="130"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-387389405"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-216.87109" Y="654.4057" Z="112.2099"/>
+        <rotation X="0" Y="0" Z="-38"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="130"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-387389405"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-214.0125" Y="657.75452" Z="112.2378"/>
+        <rotation X="0" Y="0" Z="-46"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="130"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-387389405"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-210.9482" Y="661.22992" Z="112.2788"/>
+        <rotation X="0" Y="0" Z="-37"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="130"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-387389405"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-207.84331" Y="664.6272" Z="112.3417"/>
+        <rotation X="0" Y="0" Z="-44"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="130"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-387389405"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-206.07539" Y="667.5072" Z="112.4128"/>
+        <rotation X="0" Y="0" Z="17"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-975984487"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-206.9713" Y="669.60889" Z="112.422"/>
+        <rotation X="0" Y="0" Z="153.9993"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="130"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-994042190"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-229.1297" Y="638.82013" Z="112.4119"/>
+        <rotation X="0" Y="0" Z="-31"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="130"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-387389405"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-231.91679" Y="635.35681" Z="112.3"/>
+        <rotation X="0" Y="0" Z="-46"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="130"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-387389405"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-234.8392" Y="631.64447" Z="112.407"/>
+        <rotation X="0" Y="0" Z="-33"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="130"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-387389405"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-239.6217" Y="626.76782" Z="112.3602"/>
+        <rotation X="0" Y="0" Z="-35"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="130"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-387389405"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-242.17731" Y="623.11322" Z="112.3483"/>
+        <rotation X="0" Y="0" Z="-34"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="130"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-387389405"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-244.87579" Y="619.84412" Z="112.3759"/>
+        <rotation X="0" Y="0" Z="-47.000099"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="130"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-387389405"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-248.6201" Y="619.99438" Z="112.3917"/>
+        <rotation X="0" Y="0" Z="-117.0007"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="130"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-387389405"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-261.70621" Y="629.23651" Z="112.4009"/>
+        <rotation X="0" Y="0" Z="42.999802"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="130"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-387389405"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-272.20819" Y="640.78168" Z="112.4252"/>
+        <rotation X="0" Y="0" Z="41.999901"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="130"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-387389405"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-273.68469" Y="644.76648" Z="112.4219"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="130"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-387389405"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-284.73959" Y="676.53668" Z="112.4585"/>
+        <rotation X="0" Y="0" Z="47.999802"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="130"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-387389405"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-280.2717" Y="694.9541" Z="112.5005"/>
+        <rotation X="0" Y="0" Z="-45"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="130"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-387389405"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-216.70419" Y="679.1123" Z="112.4684"/>
+        <rotation X="0" Y="0" Z="47.999699"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="130"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-387389405"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-230.8315" Y="685.31268" Z="112.2742"/>
+        <rotation X="0" Y="0" Z="-7.0001001"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="130"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-787226930"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-275.92889" Y="671.05072" Z="112.3"/>
+        <rotation X="0" Y="0" Z="105.9992"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="130"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-787226930"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-277.19919" Y="665.72089" Z="112.3403"/>
+        <rotation X="0" Y="0" Z="53.999298"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="130"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="743825664"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-255.129" Y="697.42572" Z="112.2501"/>
+        <rotation X="0" Y="0" Z="177.9982"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="130"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="743825664"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-263.82861" Y="701.84631" Z="112.4609"/>
+        <rotation X="0" Y="0" Z="-48.000099"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="130"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-787226930"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-234.10741" Y="722.56512" Z="112.8941"/>
+        <rotation X="0" Y="0" Z="-72.000298"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-975984487"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-208.3593" Y="672.0976" Z="112.4637"/>
+        <rotation X="0" Y="0" Z="59.999802"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-975984487"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-209.35629" Y="631.07562" Z="112.0644"/>
+        <rotation X="0" Y="0" Z="-15.0003"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-975984487"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-193.5952" Y="615.26282" Z="112.2227"/>
+        <rotation X="0" Y="0" Z="30.997801"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="130"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-994042190"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-189.42059" Y="614.34528" Z="112.1321"/>
+        <rotation X="0" Y="0" Z="-130.0007"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="130"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-787226930"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-185.2989" Y="617.11877" Z="112.4566"/>
+        <rotation X="0" Y="0" Z="76.999702"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="130"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-787226930"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-185" Y="613.50012" Z="112.31"/>
+        <rotation X="0" Y="0" Z="-33"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="130"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-387389405"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-186.6265" Y="615.67328" Z="114.0595"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-188.485" Y="612.66028" Z="112.2652"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-185.6479" Y="623.42841" Z="113.884"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-182.61" Y="615.57782" Z="112.3777"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-186.0076" Y="609.97937" Z="112.4513"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-230.5778" Y="687.55463" Z="112.3633"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-232.42171" Y="686.28857" Z="113.8773"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="80"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-2078891512"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-187.28709" Y="615.12708" Z="113.7349"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="80"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-2078891512"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-207.5388" Y="629.4726" Z="113.6005"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="80"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-2078891512"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-211.1324" Y="662.55981" Z="113.9954"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="80"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-2078891512"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-225.8959" Y="644.67798" Z="113.762"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="80"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-2078891512"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-273.68469" Y="642.95178" Z="113.3758"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="80"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-2078891512"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-277.15659" Y="671.87659" Z="114.2277"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="80"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-2078891512"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-276.83051" Y="667.81012" Z="113.9431"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="80"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-2078891512"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-256.30441" Y="696.5108" Z="114.1777"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="80"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-2078891512"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-234.1335" Y="724.08783" Z="115.939"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-235.5533" Y="724.88129" Z="113.1189"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-226.2384" Y="643.41992" Z="113.7291"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-224.6725" Y="644.7345" Z="112.2213"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-225.5083" Y="641.48547" Z="112.2084"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-229.53461" Y="643.70111" Z="112.3479"/>
+        <rotation X="0" Y="0" Z="150.99879"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="100"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="497427107"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-302.72189" Y="764.64203" Z="122.2584"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="100"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-881328272"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-226.5647" Y="623.84491" Z="112.1902"/>
+        <rotation X="0" Y="0" Z="28.999399"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="55"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="151743412"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-225.1599" Y="623.59998" Z="112.228"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-226.48421" Y="622.94092" Z="114.4302"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-228.24249" Y="621.20349" Z="112.1416"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-210.8206" Y="667.02197" Z="115.7633"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-218.78709" Y="673.3692" Z="120.2432"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="10.0839" Y="447.73141" Z="149.8718"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-131.7227" Y="452.25711" Z="123.9085"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-240.15919" Y="634.64148" Z="116.8218"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-227.78641" Y="642.75092" Z="117.48"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-274.5365" Y="799.935" Z="121.209"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-297.28821" Y="786.43781" Z="125.1873"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-297.99551" Y="785.42432" Z="124.5315"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-297.9841" Y="786.19098" Z="125.2147"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-297.73792" Y="785.52118" Z="125.1018"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-308.56" Y="795.6004" Z="121.2504"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-305.81461" Y="795.58612" Z="117.0965"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-289.8725" Y="798.23499" Z="119.9822"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-286.14111" Y="797.68927" Z="117.9698"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-289.91971" Y="787.69409" Z="117.4862"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-290.3609" Y="789.6886" Z="118.6814"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-234.3175" Y="803.67902" Z="132.0504"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-231.80859" Y="804.08112" Z="133.015"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-233.40089" Y="803.67517" Z="132.54671"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-233.2253" Y="803.21613" Z="133.0795"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-230.9135" Y="798.35052" Z="139.68449"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-230.35181" Y="798.38147" Z="139.8837"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-230.51601" Y="798.71039" Z="139.6091"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-232.2529" Y="805.69781" Z="131.23241"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-231.8927" Y="805.7157" Z="131.409"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-231.94611" Y="806.02991" Z="131.0831"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-232.6357" Y="804.07281" Z="132.57829"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-233.9342" Y="803.60828" Z="132.32401"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-232.3141" Y="803.53699" Z="133.2628"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-230.6423" Y="798.36267" Z="139.7823"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-308.6669" Y="795.86603" Z="121.2815"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-225.5934" Y="624.04608" Z="112.2071"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-231.3734" Y="795.99408" Z="138.61839"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-232.1871" Y="797.9762" Z="135.0471"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-236.0435" Y="751.0246" Z="123.2228"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-229.4043" Y="751.30249" Z="120.3149"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-229.4749" Y="750.69928" Z="120.3588"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-228.94769" Y="750.80359" Z="120.3153"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-234.7561" Y="735.49463" Z="122.3798"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-271.98801" Y="809.5918" Z="121.6768"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-351.18811" Y="783.01349" Z="114.9582"/>
+        <rotation X="0" Y="0" Z="131.99899"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="100"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1224690941"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-350.3689" Y="786.69049" Z="114.9755"/>
+        <rotation X="0" Y="0" Z="43.998199"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="100"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1652131169"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-348.2005" Y="779.99847" Z="114.8211"/>
+        <rotation X="0" Y="0" Z="166.9995"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="100"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="2082832984"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-346.68619" Y="781.16302" Z="114.8"/>
+        <rotation X="0" Y="0" Z="21.999901"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="50"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-1777859235"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-347.98151" Y="784.18872" Z="114.932"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="50"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-1777859235"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-347.2637" Y="782.58002" Z="115.9835"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-347.4743" Y="779.52502" Z="116.057"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-349.59909" Y="785.58221" Z="116.5116"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-348.88171" Y="785.54077" Z="116.1724"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-350.37799" Y="786.24377" Z="115.6297"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-350.72131" Y="787.20923" Z="116.232"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-350.84241" Y="787.79041" Z="116.2378"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-351.15521" Y="788.29919" Z="115.5164"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-349.9328" Y="787.625" Z="115.0042"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-350.858" Y="782.90118" Z="114.9454"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-351.4433" Y="782.60168" Z="116.4805"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-348.12579" Y="784.70563" Z="114.9483"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-346.55219" Y="783.40912" Z="114.8789"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-346.76709" Y="784.55579" Z="114.9205"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-348.5769" Y="783.9386" Z="114.9734"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-348.07709" Y="785.62018" Z="114.9728"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-346.33441" Y="786.14038" Z="114.9567"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-347.71371" Y="786.8421" Z="114.9576"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-345.70151" Y="783.21869" Z="114.8528"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-346.81" Y="780.77173" Z="115.0378"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-345.50171" Y="781.16858" Z="114.7595"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-345.07431" Y="782.39978" Z="114.8026"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-345.34711" Y="779.79773" Z="114.6982"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-349.52271" Y="778.70282" Z="114.8081"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-353.75562" Y="785.60858" Z="115.0868"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-353.12851" Y="787.20331" Z="115.0927"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-347.19351" Y="786.28339" Z="114.9686"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="100"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1806112510"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-350.01099" Y="781.37622" Z="114.9221"/>
+        <rotation X="0" Y="0" Z="98.999496"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="100"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="371901142"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-349.46609" Y="782.30438" Z="114.9219"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-347.32458" Y="785.56293" Z="114.9542"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-345.24881" Y="782.71808" Z="114.8221"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-346.89771" Y="784.21997" Z="114.912"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-345.741" Y="780.5191" Z="114.7419"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-348.33499" Y="787.69019" Z="114.9768"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-350.87381" Y="786.92688" Z="116.2134"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-347.19849" Y="786.39142" Z="114.9627"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-300.17059" Y="800.97052" Z="117.4135"/>
+        <rotation X="0" Y="0" Z="-57.000198"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-975984487"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-310.20691" Y="793.716" Z="116.8261"/>
+        <rotation X="0" Y="0" Z="-81.000397"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="130"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-387389405"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-347.79059" Y="784.32788" Z="114.9325"/>
+        <rotation X="0" Y="0" Z="156.9994"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="130"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-994042190"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-352.23499" Y="822.39551" Z="115.7066"/>
+        <rotation X="0" Y="0" Z="142.99879"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="130"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="743825664"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-357.8916" Y="822.61823" Z="115.5235"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="130"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-787226930"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-354.51651" Y="825.03589" Z="115.6956"/>
+        <rotation X="0" Y="0" Z="-58.000401"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="120"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1539592220"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-350.92441" Y="823.58502" Z="115.7794"/>
+        <rotation X="0" Y="0" Z="53.999802"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="130"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-387389405"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-357.4187" Y="826.10358" Z="115.6533"/>
+        <rotation X="0" Y="0" Z="93.999603"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="130"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-387389405"/>
+    </Entity>
+    <Entity>
+        <EntityType>Ped</EntityType>
+        <position X="-351.51361" Y="820.66962" Z="117.3101"/>
+        <rotation X="0" Y="0" Z="-50.000099"/>
+        <tag/>
+        <blip value="0"/>
+        <flags group="0" handcuffed="false" anklecuffed="false" scale="1" money="0" accuracy="0" task="5"/>
+        <walkstyle>default</walkstyle>
+        <waist value="0"/>
+        <bodytype value="0"/>
+        <weapon value="379542007"/>
+        <quality value="-1"/>
+        <scenario></scenario>
+        <clothing>
+            <preset value="-1"/>
+            <hat value="-1"/>
+            <mask value="-1"/>
+            <chaps value="-1"/>
+            <pants value="-1"/>
+            <boots value="-1"/>
+            <badge value="-1"/>
+            <gloves value="-1"/>
+            <coat value="-1"/>
+            <shirt value="-1"/>
+            <shaps value="-1"/>
+            <hair value="-1"/>
+            <vest value="-1"/>
+            <poncho value="-1"/>
+            <torso value="-1"/>
+            <head value="-1"/>
+            <necktie value="-1"/>
+            <neckwear value="-1"/>
+            <holster value="-1"/>
+            <mustache value="-1"/>
+            <suspenders value="-1"/>
+            <eyewear value="-1"/>
+            <belt value="-1"/>
+            <beltbuckle value="-1"/>
+        </clothing>
+        <FaceFeatures>
+            <head_width value="-0.273"/>
+            <eyebrow_height value="-0.273"/>
+            <eyebrow_width value="-0.273"/>
+            <eyebrow_depth value="-0.273"/>
+            <ears_width value="-0.273"/>
+            <ears_angle value="-0.273"/>
+            <ears_height value="-0.273"/>
+            <earlobe_size value="-0.273"/>
+            <cheekbones_height value="-0.273"/>
+            <cheekbones_width value="-0.273"/>
+            <cheekbones_depth value="-0.273"/>
+            <jaw_height value="-0.273"/>
+            <jaw_width value="-0.273"/>
+            <jaw_depth value="-0.273"/>
+            <chin_height value="-0.273"/>
+            <chin_width value="-0.273"/>
+            <chin_depth value="-0.273"/>
+            <eyelid_height value="-0.273"/>
+            <eyelid_width value="-0.273"/>
+            <eyes_depth value="-0.273"/>
+            <eyes_angle value="-0.273"/>
+            <eyes_distance value="-0.273"/>
+            <eyes_height value="-0.273"/>
+            <nose_width value="-0.273"/>
+            <nose_size value="-0.273"/>
+            <nose_height value="-0.273"/>
+            <nose_angle value="-0.273"/>
+            <nose_curvature value="-0.273"/>
+            <nostrils_distance value="-0.273"/>
+            <mouth_width value="-0.273"/>
+            <mouth_depth value="-0.273"/>
+            <mouth_x_pos value="-0.273"/>
+            <mouth_y_pos value="-0.273"/>
+            <upper_lip_height value="-0.273"/>
+            <upper_lip_width value="-0.273"/>
+            <upper_lip_depth value="-0.273"/>
+            <lower_lip_height value="-0.273"/>
+            <lower_lip_width value="-0.273"/>
+            <lower_lip_depth value="-0.273"/>
+            <horse_gender value="0"/>
+        </FaceFeatures>
+        <archetypeName value="460337971"/>
+    </Entity>
+    <Entity>
+        <EntityType>Ped</EntityType>
+        <position X="-355.84741" Y="823.62909" Z="117.1264"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <flags group="0" handcuffed="false" anklecuffed="false" scale="1" money="0" accuracy="0" task="5"/>
+        <walkstyle>default</walkstyle>
+        <waist value="0"/>
+        <bodytype value="0"/>
+        <weapon value="1845102363"/>
+        <quality value="-1"/>
+        <scenario></scenario>
+        <clothing>
+            <preset value="-1"/>
+            <hat value="-1"/>
+            <mask value="-1"/>
+            <chaps value="-1"/>
+            <pants value="-1"/>
+            <boots value="-1"/>
+            <badge value="-1"/>
+            <gloves value="-1"/>
+            <coat value="-1"/>
+            <shirt value="-1"/>
+            <shaps value="-1"/>
+            <hair value="-1"/>
+            <vest value="-1"/>
+            <poncho value="-1"/>
+            <torso value="-1"/>
+            <head value="-1"/>
+            <necktie value="-1"/>
+            <neckwear value="-1"/>
+            <holster value="-1"/>
+            <mustache value="-1"/>
+            <suspenders value="-1"/>
+            <eyewear value="-1"/>
+            <belt value="-1"/>
+            <beltbuckle value="-1"/>
+        </clothing>
+        <FaceFeatures>
+            <head_width value="-0.40000001"/>
+            <eyebrow_height value="-0.40000001"/>
+            <eyebrow_width value="-0.40000001"/>
+            <eyebrow_depth value="-0.40000001"/>
+            <ears_width value="-0.40000001"/>
+            <ears_angle value="-0.40000001"/>
+            <ears_height value="-0.40000001"/>
+            <earlobe_size value="-0.40000001"/>
+            <cheekbones_height value="-0.40000001"/>
+            <cheekbones_width value="-0.40000001"/>
+            <cheekbones_depth value="-0.40000001"/>
+            <jaw_height value="-0.40000001"/>
+            <jaw_width value="-0.40000001"/>
+            <jaw_depth value="-0.40000001"/>
+            <chin_height value="-0.40000001"/>
+            <chin_width value="-0.40000001"/>
+            <chin_depth value="-0.40000001"/>
+            <eyelid_height value="-0.40000001"/>
+            <eyelid_width value="-0.40000001"/>
+            <eyes_depth value="-0.40000001"/>
+            <eyes_angle value="-0.40000001"/>
+            <eyes_distance value="-0.40000001"/>
+            <eyes_height value="-0.40000001"/>
+            <nose_width value="-0.40000001"/>
+            <nose_size value="-0.40000001"/>
+            <nose_height value="-0.40000001"/>
+            <nose_angle value="-0.40000001"/>
+            <nose_curvature value="-0.40000001"/>
+            <nostrils_distance value="-0.40000001"/>
+            <mouth_width value="-0.40000001"/>
+            <mouth_depth value="-0.40000001"/>
+            <mouth_x_pos value="-0.40000001"/>
+            <mouth_y_pos value="-0.40000001"/>
+            <upper_lip_height value="-0.40000001"/>
+            <upper_lip_width value="-0.40000001"/>
+            <upper_lip_depth value="-0.40000001"/>
+            <lower_lip_height value="-0.40000001"/>
+            <lower_lip_width value="-0.40000001"/>
+            <lower_lip_depth value="-0.40000001"/>
+            <horse_gender value="0"/>
+        </FaceFeatures>
+        <archetypeName value="-2081966149"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-359.4332" Y="823.495" Z="117.1265"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-356.53119" Y="822.16168" Z="115.5481"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-353.67319" Y="822.34808" Z="117.6342"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-353.7688" Y="823.93451" Z="115.6947"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-349.91422" Y="820.04681" Z="115.7365"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-363.74289" Y="832.6391" Z="117.9056"/>
+        <rotation X="0" Y="0" Z="22.9995"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="100"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1388253953"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-363.80579" Y="832.6427" Z="115.779"/>
+        <rotation X="0" Y="0" Z="-14.0004"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="100"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="385845519"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-358.0202" Y="831.45001" Z="115.871"/>
+        <rotation X="0" Y="0" Z="48.999599"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="100"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1844524785"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-367.60599" Y="812.87677" Z="116.4239"/>
+        <rotation X="0" Y="0" Z="86.998398"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="95"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1356860375"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-371.16031" Y="835.39069" Z="116.8721"/>
+        <rotation X="0" Y="0" Z="-27.000099"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="120"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1178039658"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-375.91751" Y="833.04742" Z="115.3832"/>
+        <rotation X="0" Y="0" Z="68.999702"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="45"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-899122294"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-376.10699" Y="830.47638" Z="115.227"/>
+        <rotation X="0" Y="0" Z="-144.0006"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="95"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-278966957"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-371.78989" Y="831.38141" Z="115.3986"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="52"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-746021431"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-360.1846" Y="829.02197" Z="115.7584"/>
+        <rotation X="0" Y="0" Z="30.999901"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="50"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1872059864"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-361.8653" Y="831.64587" Z="115.8254"/>
+        <rotation X="0" Y="0" Z="-111.0006"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="50"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1431218155"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-362.4043" Y="827.76312" Z="115.6188"/>
+        <rotation X="0" Y="0" Z="-94.000801"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="52"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-746021431"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-364.08069" Y="826.40411" Z="115.4844"/>
+        <rotation X="0" Y="0" Z="64.999802"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="50"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1431218155"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-363.1972" Y="825.78912" Z="115.4815"/>
+        <rotation X="0" Y="0" Z="-80.000397"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="50"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1872059864"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-352.75589" Y="785.99573" Z="115.0447"/>
+        <rotation X="0" Y="0" Z="73.999702"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="50"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1431218155"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-351.6853" Y="785.49683" Z="115.0371"/>
+        <rotation X="0" Y="0" Z="-19"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="50"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1872059864"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-348.69189" Y="786.74512" Z="114.9545"/>
+        <rotation X="0" Y="0" Z="76.999702"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="52"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-746021431"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-345.70651" Y="784.11517" Z="114.8879"/>
+        <rotation X="0" Y="0" Z="-95.000504"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="50"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1872059864"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-346.76349" Y="782.45941" Z="114.8484"/>
+        <rotation X="0" Y="0" Z="59.999802"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="50"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1431218155"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-346.2196" Y="778.88599" Z="114.698"/>
+        <rotation X="0" Y="0" Z="-81.000397"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="52"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-746021431"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-347.4938" Y="781.21918" Z="115.9838"/>
+        <rotation X="0" Y="0" Z="-25.000099"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="50"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1872059864"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-347.2793" Y="781.81451" Z="115.9837"/>
+        <rotation X="0" Y="0" Z="71.999397"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="50"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1431218155"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-347.49701" Y="780.74353" Z="115.9839"/>
+        <rotation X="0" Y="0" Z="-40"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="50"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1872059864"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-348.96591" Y="788.59808" Z="115.0205"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="50"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1872059864"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-348.12219" Y="788.27338" Z="115.0059"/>
+        <rotation X="0" Y="0" Z="-39"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="52"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-746021431"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-349.33759" Y="778.79022" Z="114.8024"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="52"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-746021431"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-352.58429" Y="781.69702" Z="114.964"/>
+        <rotation X="0" Y="0" Z="23.999901"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="50"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1872059864"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-346.1611" Y="785.39789" Z="114.9418"/>
+        <rotation X="0" Y="0" Z="137.9986"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="20"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1316976249"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-350.57581" Y="788.88312" Z="115.0809"/>
+        <rotation X="0" Y="0" Z="-93.000504"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="60"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="669329733"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-384.6601" Y="819.46619" Z="115.0274"/>
+        <rotation X="0" Y="0" Z="136.99699"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="100"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-2131906947"/>
+    </Entity>
+    <Entity>
+        <EntityType>Ped</EntityType>
+        <position X="-382.83719" Y="821.4577" Z="116.2164"/>
+        <rotation X="-0" Y="0" Z="56.665298"/>
+        <tag/>
+        <blip value="0"/>
+        <flags group="0" handcuffed="false" anklecuffed="false" scale="1" money="0" accuracy="0" task="5"/>
+        <walkstyle>default</walkstyle>
+        <waist value="0"/>
+        <bodytype value="0"/>
+        <weapon value="1999408598"/>
+        <quality value="-1"/>
+        <scenario></scenario>
+        <clothing>
+            <preset value="7"/>
+            <hat value="-1"/>
+            <mask value="-1"/>
+            <chaps value="-1"/>
+            <pants value="-1"/>
+            <boots value="-1"/>
+            <badge value="-1"/>
+            <gloves value="-1"/>
+            <coat value="-1"/>
+            <shirt value="-1"/>
+            <shaps value="-1"/>
+            <hair value="-1"/>
+            <vest value="-1"/>
+            <poncho value="-1"/>
+            <torso value="-1"/>
+            <head value="-1"/>
+            <necktie value="-1"/>
+            <neckwear value="-1"/>
+            <holster value="-1"/>
+            <mustache value="-1"/>
+            <suspenders value="-1"/>
+            <eyewear value="-1"/>
+            <belt value="-1"/>
+            <beltbuckle value="-1"/>
+        </clothing>
+        <FaceFeatures>
+            <head_width value="0"/>
+            <eyebrow_height value="0"/>
+            <eyebrow_width value="-1"/>
+            <eyebrow_depth value="1"/>
+            <ears_width value="0"/>
+            <ears_angle value="0"/>
+            <ears_height value="0"/>
+            <earlobe_size value="0"/>
+            <cheekbones_height value="0"/>
+            <cheekbones_width value="0"/>
+            <cheekbones_depth value="0"/>
+            <jaw_height value="0"/>
+            <jaw_width value="0"/>
+            <jaw_depth value="0"/>
+            <chin_height value="0"/>
+            <chin_width value="0.30000001"/>
+            <chin_depth value="0"/>
+            <eyelid_height value="0"/>
+            <eyelid_width value="0"/>
+            <eyes_depth value="0"/>
+            <eyes_angle value="0"/>
+            <eyes_distance value="0"/>
+            <eyes_height value="0"/>
+            <nose_width value="0"/>
+            <nose_size value="0"/>
+            <nose_height value="0"/>
+            <nose_angle value="0"/>
+            <nose_curvature value="0"/>
+            <nostrils_distance value="0"/>
+            <mouth_width value="0"/>
+            <mouth_depth value="0"/>
+            <mouth_x_pos value="0"/>
+            <mouth_y_pos value="0"/>
+            <upper_lip_height value="0"/>
+            <upper_lip_width value="0"/>
+            <upper_lip_depth value="0"/>
+            <lower_lip_height value="0"/>
+            <lower_lip_width value="0"/>
+            <lower_lip_depth value="0"/>
+            <horse_gender value="0"/>
+        </FaceFeatures>
+        <archetypeName value="-1144663425"/>
+    </Entity>
+    <Entity>
+        <EntityType>Ped</EntityType>
+        <position X="-382.95221" Y="823.42853" Z="115.026"/>
+        <rotation X="0" Y="0" Z="19.0033"/>
+        <tag/>
+        <blip value="0"/>
+        <flags group="0" handcuffed="false" anklecuffed="false" scale="1" money="0" accuracy="0" task="5"/>
+        <walkstyle>default</walkstyle>
+        <waist value="0"/>
+        <bodytype value="0"/>
+        <weapon value="-1471716628"/>
+        <quality value="-1"/>
+        <scenario></scenario>
+        <clothing>
+            <preset value="-1"/>
+            <hat value="-1"/>
+            <mask value="-1"/>
+            <chaps value="-1"/>
+            <pants value="-1"/>
+            <boots value="-1"/>
+            <badge value="-1"/>
+            <gloves value="-1"/>
+            <coat value="-1"/>
+            <shirt value="-1"/>
+            <shaps value="-1"/>
+            <hair value="-1"/>
+            <vest value="-1"/>
+            <poncho value="-1"/>
+            <torso value="-1"/>
+            <head value="-1"/>
+            <necktie value="-1"/>
+            <neckwear value="-1"/>
+            <holster value="-1"/>
+            <mustache value="-1"/>
+            <suspenders value="-1"/>
+            <eyewear value="-1"/>
+            <belt value="-1"/>
+            <beltbuckle value="-1"/>
+        </clothing>
+        <FaceFeatures>
+            <head_width value="0"/>
+            <eyebrow_height value="0"/>
+            <eyebrow_width value="0"/>
+            <eyebrow_depth value="0"/>
+            <ears_width value="0"/>
+            <ears_angle value="0"/>
+            <ears_height value="0"/>
+            <earlobe_size value="0"/>
+            <cheekbones_height value="0"/>
+            <cheekbones_width value="0"/>
+            <cheekbones_depth value="0"/>
+            <jaw_height value="0"/>
+            <jaw_width value="0"/>
+            <jaw_depth value="0"/>
+            <chin_height value="0"/>
+            <chin_width value="0"/>
+            <chin_depth value="0"/>
+            <eyelid_height value="0"/>
+            <eyelid_width value="0"/>
+            <eyes_depth value="0"/>
+            <eyes_angle value="0"/>
+            <eyes_distance value="0"/>
+            <eyes_height value="0"/>
+            <nose_width value="0"/>
+            <nose_size value="0"/>
+            <nose_height value="0"/>
+            <nose_angle value="0"/>
+            <nose_curvature value="0"/>
+            <nostrils_distance value="0"/>
+            <mouth_width value="0"/>
+            <mouth_depth value="0"/>
+            <mouth_x_pos value="0"/>
+            <mouth_y_pos value="0"/>
+            <upper_lip_height value="0"/>
+            <upper_lip_width value="0"/>
+            <upper_lip_depth value="0"/>
+            <lower_lip_height value="0"/>
+            <lower_lip_width value="0"/>
+            <lower_lip_depth value="0"/>
+            <horse_gender value="0"/>
+        </FaceFeatures>
+        <archetypeName value="-1690413797"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-385.64209" Y="818.09833" Z="115.0645"/>
+        <rotation X="0" Y="0" Z="66.999702"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="55"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1039503043"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-385.92319" Y="818.12921" Z="116.0399"/>
+        <rotation X="0" Y="0" Z="37.999802"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="55"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-398611348"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-388.51541" Y="815.29688" Z="114.947"/>
+        <rotation X="0" Y="0" Z="28.9991"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="77"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1503170027"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-387.43311" Y="815.92889" Z="115.0086"/>
+        <rotation X="0" Y="0" Z="26.999901"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="120"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1611137854"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-388.96469" Y="817.87677" Z="115.0334"/>
+        <rotation X="0" Y="0" Z="-41"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="130"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-994042190"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-387.3334" Y="819.53113" Z="115.0684"/>
+        <rotation X="0" Y="0" Z="-46"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-975984487"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-385.84421" Y="821.40222" Z="115.0659"/>
+        <rotation X="0" Y="0" Z="-23"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-975984487"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-385.93219" Y="825.15771" Z="115.176"/>
+        <rotation X="0" Y="0" Z="-25.000099"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="130"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-994042190"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-387.2916" Y="816.74127" Z="115.889"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-386.09409" Y="817.89478" Z="117.0695"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-187.5498" Y="616.53351" Z="112.1427"/>
+        <rotation X="0" Y="0" Z="159.9994"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="45"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-905912675"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-173.55231" Y="619.41559" Z="113.0321"/>
+        <rotation X="0" Y="0" Z="-26.0005"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="130"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-387389405"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-169.1564" Y="625.3363" Z="113.0321"/>
+        <rotation X="0" Y="0" Z="-34"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="130"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-387389405"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-231.2059" Y="702.61011" Z="112.7058"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="300"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-892610253"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-228.7957" Y="702.34662" Z="112.8763"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-231.1021" Y="701.2439" Z="115.0155"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="150"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1114327742"/>
+    </Entity>
+    <Entity>
+        <EntityType>Ped</EntityType>
+        <position X="-231.2133" Y="702.70758" Z="113.9126"/>
+        <rotation X="0" Y="0" Z="-53.001801"/>
+        <tag/>
+        <blip value="0"/>
+        <flags group="0" handcuffed="false" anklecuffed="false" scale="1" money="0" accuracy="0" task="5"/>
+        <walkstyle>default</walkstyle>
+        <waist value="0"/>
+        <bodytype value="0"/>
+        <weapon value="2075992054"/>
+        <quality value="-1"/>
+        <scenario></scenario>
+        <clothing>
+            <preset value="-1"/>
+            <hat value="-1"/>
+            <mask value="-1"/>
+            <chaps value="-1"/>
+            <pants value="-1"/>
+            <boots value="-1"/>
+            <badge value="-1"/>
+            <gloves value="-1"/>
+            <coat value="-1"/>
+            <shirt value="-1"/>
+            <shaps value="-1"/>
+            <hair value="-1"/>
+            <vest value="-1"/>
+            <poncho value="-1"/>
+            <torso value="-1"/>
+            <head value="-1"/>
+            <necktie value="-1"/>
+            <neckwear value="-1"/>
+            <holster value="-1"/>
+            <mustache value="-1"/>
+            <suspenders value="-1"/>
+            <eyewear value="-1"/>
+            <belt value="-1"/>
+            <beltbuckle value="-1"/>
+        </clothing>
+        <FaceFeatures>
+            <head_width value="0.5"/>
+            <eyebrow_height value="-0.5"/>
+            <eyebrow_width value="0"/>
+            <eyebrow_depth value="0"/>
+            <ears_width value="0"/>
+            <ears_angle value="0"/>
+            <ears_height value="0"/>
+            <earlobe_size value="0"/>
+            <cheekbones_height value="-0.60000002"/>
+            <cheekbones_width value="-1"/>
+            <cheekbones_depth value="0"/>
+            <jaw_height value="0"/>
+            <jaw_width value="1"/>
+            <jaw_depth value="0"/>
+            <chin_height value="0.40000001"/>
+            <chin_width value="1"/>
+            <chin_depth value="0"/>
+            <eyelid_height value="0"/>
+            <eyelid_width value="0"/>
+            <eyes_depth value="-1"/>
+            <eyes_angle value="-0.60000002"/>
+            <eyes_distance value="0.1"/>
+            <eyes_height value="0"/>
+            <nose_width value="0.5"/>
+            <nose_size value="0"/>
+            <nose_height value="0"/>
+            <nose_angle value="-0.69999999"/>
+            <nose_curvature value="0"/>
+            <nostrils_distance value="0"/>
+            <mouth_width value="0.40000001"/>
+            <mouth_depth value="0"/>
+            <mouth_x_pos value="0"/>
+            <mouth_y_pos value="0.2"/>
+            <upper_lip_height value="0"/>
+            <upper_lip_width value="0"/>
+            <upper_lip_depth value="0"/>
+            <lower_lip_height value="-0.89999998"/>
+            <lower_lip_width value="0"/>
+            <lower_lip_depth value="0"/>
+            <horse_gender value="0"/>
+        </FaceFeatures>
+        <archetypeName value="-1016095860"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-232.3709" Y="805.29327" Z="131.5553"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-232.27631" Y="804.52301" Z="132.34171"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-232.53391" Y="804.84821" Z="131.89259"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-233.1158" Y="804.20459" Z="132.1945"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-233.39571" Y="804.47748" Z="131.78349"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-232.894" Y="805.021" Z="131.5341"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-232.6848" Y="803.62921" Z="132.9756"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-233.5961" Y="803.28363" Z="132.8157"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-233.19389" Y="803.91272" Z="132.4313"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-233.901" Y="804.10437" Z="131.86819"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-233.8394" Y="804.52551" Z="131.4991"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-234.40511" Y="804.00922" Z="131.688"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-231.6201" Y="798.02368" Z="139.61839"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-231.0648" Y="798.51349" Z="139.2702"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-231.3351" Y="796.37299" Z="138.94479"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-231.8736" Y="796.68439" Z="138.7563"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-222.7971" Y="812.26538" Z="130.5148"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-303.81601" Y="769.57172" Z="122.2819"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-304.45831" Y="769.8194" Z="122.3451"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-303.93781" Y="770.48102" Z="122.2777"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-304.76599" Y="770.69562" Z="122.3613"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-303.43811" Y="770.29468" Z="122.2284"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-315.78" Y="776.66962" Z="117.043"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-272.75919" Y="799.76508" Z="125.8928"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-227.0493" Y="801.85931" Z="131.0545"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-228.62939" Y="801.28027" Z="131.4333"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-228.2524" Y="801.14368" Z="131.0983"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-261.75351" Y="794.91193" Z="117.6401"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-261.33981" Y="792.74847" Z="117.6728"/>
+        <rotation X="0" Y="0" Z="-43"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="100"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="662578349"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-260.48099" Y="791.65363" Z="117.5068"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-262.06851" Y="792.13959" Z="119.939"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-262.52621" Y="790.85461" Z="117.4403"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-262.60571" Y="793.59167" Z="117.5976"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="50"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="-1777859235"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-263.72449" Y="792.44562" Z="117.5327"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="41"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="2036033890"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-261.7713" Y="791.41949" Z="117.5417"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="41"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="2036033890"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-261.71411" Y="796.11292" Z="117.6141"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="41"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="2036033890"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-227.2263" Y="818.24487" Z="123.3369"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="100"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="371901142"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-231.48511" Y="815.62122" Z="123.3219"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="100"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="371901142"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-235.93961" Y="812.22858" Z="122.9356"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="100"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="371901142"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-231.4487" Y="796.63123" Z="123.708"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="100"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="371901142"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-241.1089" Y="807.4585" Z="121.6446"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-254.20821" Y="806.39069" Z="119.3262"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-249.8156" Y="800.02301" Z="119.289"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-234.632" Y="793.56952" Z="120.7235"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-247.2692" Y="790.80359" Z="118.5697"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="140"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="842533216"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-249.4174" Y="800.69891" Z="119.4459"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="100"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1806112510"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-240.2679" Y="807.38287" Z="121.8197"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="100"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="1806112510"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-254.4624" Y="806.30469" Z="119.2359"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="100"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="371901142"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-246.68069" Y="791.01129" Z="118.6653"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="100"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="371901142"/>
+    </Entity>
+    <Entity>
+        <EntityType>Object</EntityType>
+        <position X="-234.2094" Y="793.80353" Z="120.8476"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <tag/>
+        <blip value="0"/>
+        <LodDist value="100"/>
+        <flags dynamic="true" collision="true" freeze="true" texturevariation="0"/>
+        <archetypeName value="371901142"/>
+    </Entity>
+</CEntityDef>
